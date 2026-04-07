@@ -1,0 +1,59 @@
+{
+  "programming_languages": [
+    "Python", "JavaScript", "TypeScript", "Java", "C++", "C#", "Go", "Rust",
+    "Swift", "Kotlin", "Ruby", "PHP", "Scala", "R", "Bash", "Perl", "Haskell",
+    "Elixir", "Dart", "Lua", "MATLAB", "Julia", "Objective-C", "Assembly"
+  ],
+  "web_frameworks": [
+    "React", "Angular", "Vue.js", "Next.js", "Nuxt.js", "Svelte", "Gatsby",
+    "Node.js", "Express.js", "NestJS", "Django", "Flask", "FastAPI", "Spring Boot",
+    "Ruby on Rails", "Laravel", "ASP.NET", "Phoenix", "Gin", "Echo", "Fiber"
+  ],
+  "databases": [
+    "MySQL", "PostgreSQL", "MongoDB", "Redis", "Elasticsearch", "DynamoDB",
+    "Cassandra", "SQLite", "Oracle", "SQL Server", "CockroachDB", "Neo4j",
+    "InfluxDB", "Firestore", "Supabase", "PlanetScale", "SingleStore"
+  ],
+  "cloud_devops": [
+    "AWS", "GCP", "Azure", "Heroku", "Vercel", "Netlify", "DigitalOcean",
+    "Docker", "Kubernetes", "Terraform", "Ansible", "Jenkins", "GitHub Actions",
+    "GitLab CI", "CircleCI", "ArgoCD", "Datadog", "Grafana", "Prometheus",
+    "Helm", "Istio", "Nginx", "Apache", "Linux", "CloudFormation", "Pulumi"
+  ],
+  "data_ai_ml": [
+    "Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Reinforcement Learning",
+    "TensorFlow", "PyTorch", "scikit-learn", "Keras", "Hugging Face", "LangChain",
+    "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly", "Spark", "Hadoop",
+    "Kafka", "Airflow", "dbt", "MLflow", "Weights & Biases", "OpenCV",
+    "BERT", "GPT", "Stable Diffusion", "RAG", "Vector Databases", "Pinecone"
+  ],
+  "api_architecture": [
+    "REST API", "GraphQL", "gRPC", "WebSocket", "OAuth 2.0", "JWT", "OpenAPI",
+    "Swagger", "Microservices", "Event-Driven Architecture", "CQRS", "DDD",
+    "Message Queues", "RabbitMQ", "Apache Kafka", "Celery"
+  ],
+  "frontend_design": [
+    "HTML5", "CSS3", "Sass", "Tailwind CSS", "Bootstrap", "Material UI",
+    "Chakra UI", "shadcn/ui", "Figma", "Adobe XD", "UI/UX Design",
+    "Responsive Design", "Webpack", "Vite", "Babel", "Jest", "Cypress",
+    "Storybook", "Three.js", "D3.js", "WebGL"
+  ],
+  "tools_methodologies": [
+    "Git", "GitHub", "GitLab", "Bitbucket", "JIRA", "Confluence", "Notion",
+    "Agile", "Scrum", "Kanban", "TDD", "BDD", "Code Review", "CI/CD",
+    "Postman", "VS Code", "IntelliJ", "Vim", "Linux", "Windows", "macOS",
+    "Selenium", "Playwright", "Pytest", "JUnit", "Mockito"
+  ],
+  "soft_skills": [
+    "Problem Solving", "Critical Thinking", "Communication", "Teamwork",
+    "Leadership", "Mentoring", "Time Management", "Project Management",
+    "Cross-functional Collaboration", "Stakeholder Management",
+    "Technical Writing", "Presentation", "Adaptability"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect", "AWS Certified Developer",
+    "Google Cloud Professional", "Azure Administrator", "Kubernetes CKA",
+    "Terraform Associate", "PMP", "Scrum Master", "CISSP", "CISM",
+    "Google Analytics", "Salesforce Developer", "Databricks", "Snowflake"
+  ]
+}

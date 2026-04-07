@@ -1,0 +1,137 @@
+[
+  {
+    "title": "Software Engineer",
+    "category": "Software Development",
+    "description": "Design, develop, and maintain software systems and applications. Work in cross-functional teams using agile methodologies.",
+    "required_skills": ["Python", "JavaScript", "SQL", "Git", "REST API", "Agile", "Problem Solving"],
+    "nice_to_have": ["Docker", "AWS", "React", "PostgreSQL"],
+    "experience_level": "Mid-Level",
+    "salary_range": "$90,000 - $140,000"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "category": "Software Development",
+    "description": "Lead software development projects, mentor junior engineers, and design scalable system architectures.",
+    "required_skills": ["Python", "Java", "SQL", "Git", "Microservices", "REST API", "Agile", "Leadership", "System Design"],
+    "nice_to_have": ["Kubernetes", "AWS", "Terraform", "Redis"],
+    "experience_level": "Senior",
+    "salary_range": "$130,000 - $200,000"
+  },
+  {
+    "title": "Frontend Developer",
+    "category": "Web Development",
+    "description": "Build responsive, performant web applications using modern JavaScript frameworks.",
+    "required_skills": ["JavaScript", "TypeScript", "React", "HTML5", "CSS3", "Git", "REST API"],
+    "nice_to_have": ["Next.js", "GraphQL", "Testing", "Figma", "Performance Optimization"],
+    "experience_level": "Mid-Level",
+    "salary_range": "$80,000 - $130,000"
+  },
+  {
+    "title": "Backend Engineer",
+    "category": "Software Development",
+    "description": "Design and build server-side applications, APIs, and database systems.",
+    "required_skills": ["Python", "Node.js", "SQL", "PostgreSQL", "REST API", "Git", "Docker"],
+    "nice_to_have": ["Redis", "Kafka", "Kubernetes", "AWS", "GraphQL"],
+    "experience_level": "Mid-Level",
+    "salary_range": "$95,000 - $150,000"
+  },
+  {
+    "title": "Full Stack Developer",
+    "category": "Web Development",
+    "description": "Work across the entire software stack, from database to UI. Build complete web applications end-to-end.",
+    "required_skills": ["JavaScript", "TypeScript", "React", "Node.js", "SQL", "Git", "REST API", "HTML5", "CSS3"],
+    "nice_to_have": ["Next.js", "PostgreSQL", "Docker", "AWS", "GraphQL"],
+    "experience_level": "Mid-Level",
+    "salary_range": "$100,000 - $160,000"
+  },
+  {
+    "title": "Data Scientist",
+    "category": "Data & AI",
+    "description": "Analyze complex data sets to extract insights, build predictive models, and support data-driven decision making.",
+    "required_skills": ["Python", "Machine Learning", "SQL", "Pandas", "NumPy", "scikit-learn", "Data Analysis", "Statistics"],
+    "nice_to_have": ["TensorFlow", "PyTorch", "Spark", "Tableau", "R", "Deep Learning"],
+    "experience_level": "Mid-Level",
+    "salary_range": "$100,000 - $160,000"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "category": "Data & AI",
+    "description": "Design and deploy machine learning models and pipelines at scale in production environments.",
+    "required_skills": ["Python", "Machine Learning", "Deep Learning", "TensorFlow", "PyTorch", "MLOps", "Docker", "SQL"],
+    "nice_to_have": ["Kubernetes", "Airflow", "Spark", "AWS SageMaker", "MLflow"],
+    "experience_level": "Senior",
+    "salary_range": "$130,000 - $200,000"
+  },
+  {
+    "title": "DevOps Engineer",
+    "category": "Infrastructure",
+    "description": "Build and maintain CI/CD pipelines, cloud infrastructure, and containerized deployment systems.",
+    "required_skills": ["Docker", "Kubernetes", "CI/CD", "AWS", "Linux", "Terraform", "Git", "Bash"],
+    "nice_to_have": ["Ansible", "Helm", "Prometheus", "Grafana", "Python", "GitOps"],
+    "experience_level": "Mid-Level",
+    "salary_range": "$100,000 - $160,000"
+  },
+  {
+    "title": "Cloud Architect",
+    "category": "Infrastructure",
+    "description": "Design enterprise-scale cloud infrastructure solutions and migration strategies.",
+    "required_skills": ["AWS", "Azure", "GCP", "Terraform", "Kubernetes", "Microservices", "Security", "Networking"],
+    "nice_to_have": ["Cost Optimization", "Multi-cloud", "Serverless", "FinOps"],
+    "experience_level": "Senior",
+    "salary_range": "$150,000 - $250,000"
+  },
+  {
+    "title": "Product Manager",
+    "category": "Product",
+    "description": "Define product vision, strategy, and roadmap. Work with engineering, design, and business stakeholders.",
+    "required_skills": ["Product Strategy", "Agile", "Data Analysis", "Stakeholder Management", "Communication", "JIRA"],
+    "nice_to_have": ["SQL", "User Research", "A/B Testing", "Go-to-Market", "OKRs"],
+    "experience_level": "Mid-Level",
+    "salary_range": "$110,000 - $180,000"
+  },
+  {
+    "title": "UI/UX Designer",
+    "category": "Design",
+    "description": "Create intuitive, beautiful user experiences through research, prototyping, and design systems.",
+    "required_skills": ["Figma", "UI/UX Design", "Prototyping", "User Research", "Design Systems", "Responsive Design"],
+    "nice_to_have": ["HTML5", "CSS3", "Framer", "Adobe XD", "Accessibility", "Animation"],
+    "experience_level": "Mid-Level",
+    "salary_range": "$75,000 - $130,000"
+  },
+  {
+    "title": "Security Engineer",
+    "category": "Security",
+    "description": "Protect systems and data from threats. Perform security audits, penetration testing, and vulnerability assessments.",
+    "required_skills": ["Security", "Python", "Linux", "Networking", "CISSP", "Penetration Testing", "SIEM"],
+    "nice_to_have": ["Cloud Security", "Zero Trust", "SAST/DAST", "SOC", "Incident Response"],
+    "experience_level": "Senior",
+    "salary_range": "$120,000 - $200,000"
+  },
+  {
+    "title": "Android Developer",
+    "category": "Mobile",
+    "description": "Build native Android applications with exceptional user experiences.",
+    "required_skills": ["Kotlin", "Java", "Android SDK", "Jetpack Compose", "REST API", "Git", "MVVM"],
+    "nice_to_have": ["Firebase", "Coroutines", "Dagger/Hilt", "Room", "Testing"],
+    "experience_level": "Mid-Level",
+    "salary_range": "$90,000 - $150,000"
+  },
+  {
+    "title": "iOS Developer",
+    "category": "Mobile",
+    "description": "Build native iOS applications using Swift and Apple platform technologies.",
+    "required_skills": ["Swift", "Objective-C", "iOS SDK", "SwiftUI", "REST API", "Git", "Xcode"],
+    "nice_to_have": ["Core Data", "ARKit", "CloudKit", "TestFlight", "CI/CD"],
+    "experience_level": "Mid-Level",
+    "salary_range": "$100,000 - $160,000"
+  },
+  {
+    "title": "Data Engineer",
+    "category": "Data & AI",
+    "description": "Build and maintain data pipelines, ETL processes, and data warehouses at scale.",
+    "required_skills": ["Python", "SQL", "Spark", "Kafka", "Airflow", "PostgreSQL", "ETL", "Data Modeling"],
+    "nice_to_have": ["dbt", "Snowflake", "BigQuery", "Terraform", "Kubernetes"],
+    "experience_level": "Mid-Level",
+    "salary_range": "$110,000 - $170,000"
+  }
+]
