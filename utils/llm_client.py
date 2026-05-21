@@ -6,6 +6,11 @@ Gemini API client wrapper with prompt templates for resume analysis.
 import os
 import json
 from typing import Optional
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
 
 
 def get_gemini_client():
@@ -38,7 +43,7 @@ def analyze_resume_with_ai(resume_text: str, ats_score: int, skills: list) -> di
         return _mock_ai_analysis(ats_score, skills)
 
     try:
-        model = genai.GenerativeModel("gemini-1.5-flash")
+        model = genai.GenerativeModel("gemini-2.5-flash")
 
         prompt = f"""You are an expert resume coach and ATS specialist with 15 years of experience.
 
@@ -91,7 +96,7 @@ def match_resume_to_job(resume_text: str, job_description: str, match_score: flo
         return _mock_job_match(match_score)
 
     try:
-        model = genai.GenerativeModel("gemini-1.5-flash")
+        model = genai.GenerativeModel("gemini-2.5-flash")
 
         prompt = f"""You are an expert recruiter and career coach.
 
@@ -148,7 +153,7 @@ def chat_with_resume(resume_text: str, conversation_history: list, user_message:
         return _mock_chat_response(user_message)
 
     try:
-        model = genai.GenerativeModel("gemini-1.5-flash")
+        model = genai.GenerativeModel("gemini-2.5-flash")
 
         # Build conversation context
         history_text = ""

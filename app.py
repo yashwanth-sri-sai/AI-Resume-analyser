@@ -6,6 +6,10 @@ Particle Background Animation + Liquid Glass UI
 
 import streamlit as st
 import os
+from dotenv import load_dotenv
+
+# Load environment variables (such as GEMINI_API_KEY)
+load_dotenv()
 
 # ---- Page Config (MUST be first Streamlit call) ----
 st.set_page_config(
